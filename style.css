@@ -1,0 +1,48 @@
+li {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.navbar {
+    background-color: lightslategray;
+    height: 70px;
+}
+
+a {
+    color: lightyellow;
+    padding: 30px;
+}
+
+.container header {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.marka {
+    text-align: center;
+    margin-top: 75px;
+}
+
+.marka header {
+    margin-bottom: 60px;
+    font-size: 70px;
+}
+
+.marka ul {
+    padding-bottom: 50px;
+}
+
+.marka ul li {
+    font-size: 40px;
+    padding: 100px;
+
+}
